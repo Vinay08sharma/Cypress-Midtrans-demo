@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "cypress:run": "cypress run --browser chrome --headed"
+  },
+  "devDependencies": {
+    "cypress": "^11.0.0"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
