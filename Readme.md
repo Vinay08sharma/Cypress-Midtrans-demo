@@ -1,6 +1,6 @@
 #### CYPRESS DEMO TEST 
 
-## TO INSTALL DEPENDECIES
+## TO INSTALL DEPENDENCIES
 -   yarn install
 
 ## OR
